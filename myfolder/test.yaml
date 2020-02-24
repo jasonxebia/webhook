@@ -9,3 +9,4 @@ apiVersion: xl-release/v1
 kind: Templates
 spec:
 - directory: XL2
+ test
